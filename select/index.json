@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "胡蝶蘭",
+  "base_artist": "神はサイコロを振らない",
+  "createdAt": "2026-03-04T01:22:17.012682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "胡蝶蘭",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/01_胡蝶蘭_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "胡蝶蘭",
+      "artist": "Kyoko",
+      "has_synced": false,
+      "path": "select/02_胡蝶蘭_Kyoko.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "胡蝶蘭",
+      "artist": "Ningen-Isu",
+      "has_synced": false,
+      "path": "select/03_胡蝶蘭_Ningen-Isu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "胡蝶蘭",
+      "artist": "神はサイコロを振らない",
+      "has_synced": false,
+      "path": "select/pl_01_胡蝶蘭_神はサイコロを振らない.txt"
+    }
+  ]
+}
